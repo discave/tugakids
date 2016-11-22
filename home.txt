@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>Live Canais</name>
-<thumbnail></thumbnail>
+<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0018/5343/brand.gif</thumbnail>
 <externallink>https://raw.githubusercontent.com/discave/discave.repo/master/home.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
