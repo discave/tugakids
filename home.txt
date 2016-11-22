@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <nameAudio PT-pt</name>
-<thumbnail>http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0018/5343/brand.gif</thumbnail>
+<thumbnail>http://images.cdn2.stockunlimited.net/clipart/portugal-flag-button_1576364.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/discave/tugakids/master/movies.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
